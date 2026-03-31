@@ -1,0 +1,9 @@
+pandas
+openpyxl
+xlrd
+odfpy
+tabulate
+pypandoc
+pymupdf4llm
+watchdog
+weasyprint
